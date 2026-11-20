@@ -1,0 +1,17 @@
+body{
+    background-image: url("images/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 96%;
+    min-height: 95vh;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px black;
+}
+
+button{
+    background-color: black;
+    color: white;
+    border: 1px solid red;
+    padding: 10px 20px;
+}
